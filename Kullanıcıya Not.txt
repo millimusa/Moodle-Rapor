@@ -1,1 +1,0 @@
-Moodle Rapor programý .Net Framework 4.7.2 veya daha üst bir versiyon yüklü ise çalýþýr.
